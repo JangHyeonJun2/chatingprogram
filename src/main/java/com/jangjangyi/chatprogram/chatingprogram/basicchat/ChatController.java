@@ -1,4 +1,4 @@
-package com.jangjangyi.chatprogram.chatingprogram;
+package com.jangjangyi.chatprogram.chatingprogram.basicchat;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
