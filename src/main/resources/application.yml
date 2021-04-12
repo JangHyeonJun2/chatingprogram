@@ -6,3 +6,6 @@ spring:
       enabled: true
   freemarker:
     cache: false
+    template-loader-path: classpath:/templates/
+    suffix: .ftl
+    content-type: text/html
