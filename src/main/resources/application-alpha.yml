@@ -1,0 +1,8 @@
+spring:
+  config:
+    activate:
+      on-profile: alpha
+  redis:
+    host: 192.168.123.102
+    port: 6378
+    password: tjswn0653
